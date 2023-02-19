@@ -3,7 +3,7 @@ public class HelloWorld {
 		String name="Saurrabh Sharma";
 		System.out.println("Hello World Java");
 		System.out.println("You Name="+name);
-		System.out.println("We are learning CI with Jenkin");
+		System.out.println("We are learning Git Bash");
 		String age=25;
 		System.out.println("You Age="+age);
 	}
